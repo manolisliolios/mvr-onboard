@@ -23,12 +23,6 @@ sui move new mvr_workshop
 
 Add some code in our module!
 
-
-
-
-## Objects
-
-MVR Registry Object: `0x0e5d473a055b6b7d014af557a13ad9075157fdc19b6d51562a18511afd397727`
-
+We'll publish on mainnet.
 
 
